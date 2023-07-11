@@ -245,3 +245,43 @@ line-height: 35px;
     padding-top: 1;
 }
 
+
+
+/* 7-footer-section */
+ #Flower{
+    color: #E55473;
+ }
+
+.footer-section{
+    background-color:#111010 ;
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    /* height: 449px; */
+    /* font-family: Open Sans; */
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 130px;
+   
+}
+
+.text3{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.small{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
